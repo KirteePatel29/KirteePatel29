@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi Buddy 👋
 # 💫 About Me:
-bulding my project and improving my development skills.<br>i am currently learning react.js , nade.js , agentic AI , streanght , my MCA (AI) journey.<br>HTML, CSS , javascript , java ,python , problem solving and creating simple web app .<br>i love learning new skills .<br>i love  turning ideas into clean UI .
+I am Kirtee Patel .
+
+Bulding my project and improving my development skills.<br>i am currently learning react.js , nade.js , agentic AI , streanght , my MCA (AI) journey.<br>HTML, CSS , javascript , java ,python , problem solving and creating simple web app .<br>i love learning new skills .<br>i love  turning ideas into clean UI .
 
 
 ## 🌐 Socials:
